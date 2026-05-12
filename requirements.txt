@@ -16,4 +16,3 @@ transformers>=4.40
 torch>=2.2
 sentencepiece>=0.2
 sacremoses>=0.1
-fastcoref>=2.1
